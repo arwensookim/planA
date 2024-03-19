@@ -1,0 +1,40 @@
+.navBar {
+    height: 5rem;
+    display: flex;
+    /* background-color: rgba(30, 29, 29, 0.922); */
+    overflow: auto;
+    white-space: nowrap;
+    min-width: 100%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+}
+
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    width: 40rem;
+    height: 100%;
+    padding: 0 1.5rem;
+    font-size: 22px
+}
+
+/* .nav:not(:first-child) {
+    border: 0.5px dotted lightgray;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Josefin+Sans:wght@100;200;300;400;500&display=swap');
+
+.space {
+    height: 4rem;
+    background-color: rgba(241, 242, 247, 0.526);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+}

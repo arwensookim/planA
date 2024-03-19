@@ -1,0 +1,61 @@
+.about {
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+
+.headerPic {
+    /* width: 1752px; */
+    min-width: 100%;
+    height: 958px;
+    background-image: url(https://static.wixstatic.com/media/eeb834_5c10b8b0183c41889951ba30ebad9193~mv2.jpg/v1/fill/w_849,h_462,al_b,lg_1,q_85,enc_auto/eeb834_5c10b8b0183c41889951ba30ebad9193~mv2.jpg);
+    background-repeat:no-repeat;
+    object-fit: cover;
+    object-position:50% 100%;
+    position:-webkit-sticky;
+    background-size: 100% 100%;
+}
+.greetings {
+    width: 700px;
+    padding-left: 400px
+}
+
+.circulationImg {
+    width: 538px;
+    height: 538px;
+    animation: rotation 20s infinite linear;
+    position: relative;
+}
+  
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+
+  .innerTxt {
+    /* position: relative; */
+    position: absolute;
+  }
+
+.service {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ourService {
+    padding-left: 300px;
+}
+
+.innerService {
+    padding-top: 150px;
+    padding-right: 600px;
+}
+
+.service_list li{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
