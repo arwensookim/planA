@@ -27,14 +27,15 @@ export default function About() {
             </div>
             <div className='service'>
                 <div className='ourService'>
-                    <h3>Our Service</h3>
+                    <h3 style={{fontSize:"30px", textTransform:"uppercase"}}>Our Service</h3>
                     <img className='circulationImg' src="https://static.wixstatic.com/media/eeb834_9efe9c7796404022a7d9e1dcddb019dc~mv2.png/v1/fill/w_1076,h_1076,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/arrow.png" alt="" />
-                    <div className='innerTxt' style={{bottom: "-72%", left: "29%"}}><span className='first' ><h4>Trade Consultation</h4></span></div>
-                    <div className='innerTxt' style={{bottom: "-80%", left: "40%"}}><span className='second'><h4>Graphic</h4></span></div>
-                    <div className='innerTxt' style={{bottom:"-92%", left: "39%"}}><span className='third'><h4>Booth Production</h4></span></div>
-                    <div className='innerTxt'style={{bottom:"-105%", left: "33%"}}><span className='fourth'><h4>Delivery Service</h4></span></div>
-                    <div className='innerTxt'style={{bottom:"-98%", left: "21%"}}><span className='fifth'><h4>Booth Installation</h4></span></div>
-                    <div className='innerTxt' style={{bottom:"-82%", left: "20%"}}><span className='sixth'><h4>Booth Dismantle</h4></span></div>
+                    <div className='innerTxt' style={{bottom: "-75%", left: "29%"}}><span className='first' ><h4>Trade Consultation</h4></span></div>
+                    <div className='innerTxt' style={{bottom: "-83%", left: "40%"}}><span className='second'><h4>Graphic</h4></span></div>
+                    <div className='innerTxt' style={{bottom:"-95%", left: "39%"}}><span className='third'><h4>Booth Production</h4></span></div>
+                    <div className='innerTxt'style={{bottom:"-108%", left: "30%"}}><span className='fourth'><h4>Delivery Service</h4></span></div>
+                    <div className='innerTxt'style={{bottom:"-97%", left: "21%"}}><span className='fifth'><h4>Booth Installation</h4></span></div>
+                    <div className='innerTxt' style={{bottom:"-84%", left: "20%"}}><span className='sixth'><h4>Booth Dismantle</h4></span></div>
+                    <div className='innerCircle'></div>
                 </div>
                 <div className='innerService'>
                     <p>We provide a one-step service</p>

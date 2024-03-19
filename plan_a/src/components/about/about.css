@@ -44,6 +44,7 @@
 .service {
     display: flex;
     justify-content: space-between;
+    background-color: rgba(220, 247, 220, 0.441);
 }
 
 .ourService {
