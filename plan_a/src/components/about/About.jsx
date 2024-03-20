@@ -50,7 +50,34 @@ export default function About() {
                     </ul>
                 </div>
             </div>
-            <div className='client'></div>
+            <div className='client'>
+                <div className='heading'><h3 style={{fontSize:"30px", textTransform:"uppercase"}} >Our Clients</h3></div>
+                <div className='clientList'>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <br />
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <br />
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <br />
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                        <img src="https://static.wixstatic.com/media/eeb834_5ccc0852312c4bdcb01d41e12c99c485~mv2.jpg/v1/fill/w_252,h_189,al_c,lg_1,q_80,enc_auto/lg_display.jpg" width='180px' height='135px'/>
+                </div>
+            </div>
             <Footer />
         </div>
     )

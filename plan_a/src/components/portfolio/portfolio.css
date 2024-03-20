@@ -1,0 +1,41 @@
+.portfolioSection {
+    width: 80%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+    
+}
+
+.port, .magic {
+    width: 700px;
+    height: 700px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+}
+
+.port {
+    margin-right: 50px;
+    margin-left: 400px;
+}
+
+.portBtn, .magicBtn {
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    font-size: 30px;
+    transition: 0.3s;
+    background: rgba(255, 255, 255, 0.658);
+    position: absolute;
+    top: 43%;
+}
+.portBtn {
+    left: 28%
+}
+.magicBtn {
+    right: 25%
+}
+
+.portBtn:hover, .magicBtn:hover {
+    background-color: rgb(33, 29, 29);
+    color: white;
+}

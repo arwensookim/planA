@@ -56,6 +56,7 @@
     padding-right: 600px;
 }
 
+
 .service_list li{
     margin-bottom: 10px;
     font-weight: bold;
@@ -69,4 +70,12 @@
     position: absolute;
     bottom: -98%;
     left: 28%;
+}
+
+.heading {
+  padding-left: 320px
+}
+
+.clientList {
+  padding-left: 320px;
 }
